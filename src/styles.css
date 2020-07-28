@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Rowdies", cursive;
+
+  background: #fafafafa;
+  color: rgba(14, 14, 14, 0.356);
+}
+.App {
+  margin-top: 70px;
+}
